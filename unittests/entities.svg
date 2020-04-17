@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
- a="'"
- b='"'
- c="''&quot;"
- d='""&apos;'
- e='&apos;&apos;""'
-/>
+<svg xmlns="http://www.w3.org/2000/svg" d="&quot;&quot;'" a="'" b="&quot;" c="''&quot;" e="''&quot;&quot;"/>
